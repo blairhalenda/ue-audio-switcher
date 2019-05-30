@@ -1,0 +1,32 @@
+// ACTIONS - For reference only
+0 | Reserved (do nothing)
+
+// Indicator LED Commands
+1 | Set LED blank
+2 | Set LED red
+3 | Set LED green
+4 | Set LED blue
+
+
+// GPIO Commands
+5 | Write D1-12 LOW
+6 | Write D1-D3 HIGH
+7 | Write D4-D6 HIGH
+8 | Write D7-D9 HIGH
+9 | Write D10-D12 HIGH
+
+// Audio Commands
+10 | Mute all ports
+11 | Switch to port 1
+12 | Switch to port 2
+13 | Switch to port 3
+14 | Switch to port 4
+15 | Switch to port 5
+16 | Switch to port 6
+
+17 | Switch source to mp3
+18 | Switch source to external line in
+
+
+// Serial Commands
+1000 | Send Command 000 from serialTX.txt
