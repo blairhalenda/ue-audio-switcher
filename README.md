@@ -1,4 +1,4 @@
-# ue-audio-switcher
+# Ultimate Ears Audio Switcher
 Speculative electronics system built for Ultimate Ears to connect their simple inline displays to the cloud. The objective of this project was to detect in store how many times buttons were being pressed to hear audio from the speakers, without any dependancy on the store WiFi.
 
 ## Display
